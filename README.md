@@ -9,3 +9,6 @@ Generalization of deep learning models are found to have improved because of usi
 
 ## What we do
 We use Pix2Pix, a supervised learning CGAN that can be used for semantic segmentation by framing it as a style transfer problem. We assess the generalization performance of Pix2Pix.
+
+## Dataset 
+Available in a Google Drive [here](https://drive.google.com/drive/folders/18IWSy52t_JZIyRpv403vBq7Vw1o-1rE9?usp=sharing)
